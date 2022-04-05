@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Boomatang Demo
+site_url: https://boomatang-demo.readthedocs.io
+repo_url: https://github.com/Boomatang/Boomatang-demo
+theme:
+  name: readthedocs
+plugins:
+  - search:
+  
