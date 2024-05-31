@@ -1,6 +1,7 @@
 site_name: Boomatang Demo
 site_url: https://boomatang-demo.readthedocs.io
 repo_url: https://github.com/Boomatang/Boomatang-demo
+edit_uri: blob/master/docs
 theme:
   name: readthedocs
 plugins:
